@@ -15,3 +15,5 @@ Test login and password:
 
 Log: Ilya
 pass: 123
+
+All database data is saved in employers.db
