@@ -11,3 +11,7 @@ Application allows to automatise the work of the library:
 
 *Informing readers to return a book by e-mail;
 
+Test login and password:
+
+Log: Ilya
+pass: 123
